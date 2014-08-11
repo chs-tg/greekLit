@@ -6,24 +6,24 @@
     <!-- Optional element:  none in this inventory yet.
         <extensionImplementation name="" baseUrl=""></extensionImplementation>
     -->
-    <citeCollection canonicalId="URN" label="F1K Text Groups" urn="urn:cite:chs:textgroup">
+    <citeCollection canonicalId="URN" label="GreekLit Text Groups" urn="urn:cite:chs:textgroup">
         <namespaceMapping abbr="chs" fullValue="http://chs.harvard.edu/cite/chs"></namespaceMapping>
         <dc:creator>The Center for Hellenic Studies of Harvard University</dc:creator>
-        <dc:description>TextGroups identified by the First Thousand Years of Greek Project</dc:description>
+        <dc:description>TextGroup identifiers for ancient Greek texts transmitted by manusript copy.</dc:description>
         <dc:rights>Public Domain</dc:rights>
-        <source type="file" value="f1k-groups.csv"/>
+        <source type="file" value="greekLit-groups.csv"/>
         <citeProperty label="URN" name="URN" type="citeurn"></citeProperty>
         <citeProperty label="CTS URN" type="ctsurn" name="CTSURN"></citeProperty>
         <citeProperty label="English Name" name="EnglishName" type="string"></citeProperty>
         <citeProperty label="Latin Name" name="LatinName" type="string" ></citeProperty>
     </citeCollection>
     
-    <citeCollection canonicalId="URN" label="F1K Works" urn="urn:cite:chs:work">
+    <citeCollection canonicalId="URN" label="GreekLit Works" urn="urn:cite:chs:work">
         <namespaceMapping abbr="chs" fullValue="http://chs.harvard.edu/cite/chs"></namespaceMapping>
         <dc:creator>The Center for Hellenic Studies of Harvard University</dc:creator>
-        <dc:description>Works identified by the First Thousand Years of Greek Project</dc:description>
+        <dc:description>Work identifiers for ancient Greek texts transmitted by manusript copy.</dc:description>
         <dc:rights>Public Domain</dc:rights>
-        <source type="file" value="f1k-works.csv"/>
+        <source type="file" value="greekLit-works.csv"/>
         <citeProperty label="URN" name="URN" type="citeurn"></citeProperty>
         <citeProperty label="CTS URN" type="ctsurn" name="CTSURN"></citeProperty>
         <citeProperty label="Group URN" type="citeurn" name="GroupURN"> <indexRelation rdfverb="inherits" inverseverb="isInheritedBy"/></citeProperty>
