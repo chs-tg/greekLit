@@ -26,7 +26,7 @@
         <source type="file" value="greekLit-works.csv"/>
         <citeProperty label="URN" name="URN" type="citeurn"></citeProperty>
         <citeProperty label="CTS URN" type="ctsurn" name="CTSURN"></citeProperty>
-        <citeProperty label="Group URN" type="citeurn" name="GroupURN"> <indexRelation rdfverb="inherits" inverseverb="isInheritedBy"/></citeProperty>
+        <citeProperty label="Group URN" type="citeurn" name="GroupURN"> <indexRelation rdfverb="http://www.homermultitext.org/cite/rdf/inherits" inverseverb="http://www.homermultitext.org/cite/rdf/isInheritedBy"/></citeProperty>
         <citeProperty label="English Name" name="EnglishName" type="string"></citeProperty>
         <citeProperty label="Latin Name" name="LatinName" type="string" ></citeProperty>
     </citeCollection>
