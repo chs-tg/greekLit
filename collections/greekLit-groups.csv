@@ -1,8 +1,8 @@
 URN,CTSURN,LatinName,EnglishName
-urn:cite:chs:textgroup.tlg0001,urn:cts:greekLit:tlg0001:,\"Apollonius Rhodius\",\"Apollonius of Rhodes\"
-urn:cite:chs:textgroup.tlg0002,urn:cts:greekLit:tlg0002:,Theognis,\"Theognis of Megara\"
+urn:cite:chs:textgroup.tlg0001,urn:cts:greekLit:tlg0001:,"Apollonius Rhodius","Apollonius of Rhodes"
+urn:cite:chs:textgroup.tlg0002,urn:cts:greekLit:tlg0002:,Theognis,"Theognis of Megara"
 urn:cite:chs:textgroup.tlg0003,urn:cts:greekLit:tlg0003:,Thucydides,Thucydides
-urn:cite:chs:textgroup.tlg0004,urn:cts:greekLit:tlg0004:,\"Diogenes Laertius\",\"Diogenes Laertius\"
+urn:cite:chs:textgroup.tlg0004,urn:cts:greekLit:tlg0004:,"Diogenes Laertius","Diogenes Laertius"
 urn:cite:chs:textgroup.tlg0005,urn:cts:greekLit:tlg0005:,Theocritus,Theocritus
 urn:cite:chs:textgroup.tlg0006,urn:cts:greekLit:tlg0006:,Euripides,Euripides
 urn:cite:chs:textgroup.tlg0007,urn:cts:greekLit:tlg0007:,Plutarchus,Plutarch
@@ -10,12 +10,12 @@ urn:cite:chs:textgroup.tlg0008,urn:cts:greekLit:tlg0008:,Athenaeus,Athenaeus
 urn:cite:chs:textgroup.tlg0010,urn:cts:greekLit:tlg0010:,Isocrates,Isocrates
 urn:cite:chs:textgroup.tlg0011,urn:cts:greekLit:tlg0011:,Sophocles,Sophocles
 urn:cite:chs:textgroup.tlg0012,urn:cts:greekLit:tlg0012:,Homerus,Homer
-urn:cite:chs:textgroup.tlg0013,urn:cts:greekLit:tlg0013:,\"Hymni Homerici\",\"Homeric Hymns\"
+urn:cite:chs:textgroup.tlg0013,urn:cts:greekLit:tlg0013:,"Hymni Homerici","Homeric Hymns"
 urn:cite:chs:textgroup.tlg0014,urn:cts:greekLit:tlg0014:,Demosthenes,Demosthenes
 urn:cite:chs:textgroup.tlg0015,urn:cts:greekLit:tlg0015:,Herodianus,Herodian
 urn:cite:chs:textgroup.tlg0016,urn:cts:greekLit:tlg0016:,Herodotus,Herodotus
 urn:cite:chs:textgroup.tlg0017,urn:cts:greekLit:tlg0017:,Isaeus,Isaeus
-urn:cite:chs:textgroup.tlg0018,urn:cts:greekLit:tlg0018:,\"Philo Judaeus\",\"Philo\"
+urn:cite:chs:textgroup.tlg0018,urn:cts:greekLit:tlg0018:,"Philo Judaeus","Philo"
 urn:cite:chs:textgroup.tlg0019,urn:cts:greekLit:tlg0019:,Aristophanes,Aristophanes
 urn:cite:chs:textgroup.tlg0020,urn:cts:greekLit:tlg0020:,Hesiodus,Hesiod
 urn:cite:chs:textgroup.tlg0022,urn:cts:greekLit:tlg0022:,Nicander,Nicander
@@ -29,205 +29,205 @@ urn:cite:chs:textgroup.tlg0032,urn:cts:greekLit:tlg0032:,Xenophon,Xenophon
 urn:cite:chs:textgroup.tlg0033,urn:cts:greekLit:tlg0033:,Pindarus,Pindar
 urn:cite:chs:textgroup.tlg0034,urn:cts:greekLit:tlg0034:,Lycurgus,Lycurgus
 urn:cite:chs:textgroup.tlg0035,urn:cts:greekLit:tlg0035:,Moschus,Moschus
-urn:cite:chs:textgroup.tlg0036,urn:cts:greekLit:tlg0036:,Bion,\"Bion (of Smyrna)\"
-urn:cite:chs:textgroup.tlg0039,urn:cts:greekLit:tlg0039:,\"Mithridatis Epistula\",\"The Lettter of Mithridates\"
-urn:cite:chs:textgroup.tlg0053,urn:cts:greekLit:tlg0053:,\"Phalaridis Epistulae\",\"Epistle(s) of Phalaris\"
-urn:cite:chs:textgroup.tlg0057,urn:cts:greekLit:tlg0057:,Galenus,\"Galen of Pergamon\"
-urn:cite:chs:textgroup.tlg0058,urn:cts:greekLit:tlg0058:,Aeneas,\"Aeneas Tacticus\"
+urn:cite:chs:textgroup.tlg0036,urn:cts:greekLit:tlg0036:,Bion,"Bion (of Smyrna)"
+urn:cite:chs:textgroup.tlg0039,urn:cts:greekLit:tlg0039:,"Mithridatis Epistula","The Lettter of Mithridates"
+urn:cite:chs:textgroup.tlg0053,urn:cts:greekLit:tlg0053:,"Phalaridis Epistulae","Epistle(s) of Phalaris"
+urn:cite:chs:textgroup.tlg0057,urn:cts:greekLit:tlg0057:,Galenus,"Galen of Pergamon"
+urn:cite:chs:textgroup.tlg0058,urn:cts:greekLit:tlg0058:,Aeneas,"Aeneas Tacticus"
 urn:cite:chs:textgroup.tlg0059,urn:cts:greekLit:tlg0059:,Plato,Plato
-urn:cite:chs:textgroup.tlg0060,urn:cts:greekLit:tlg0060:,\"Diodorus Siculus\",\"Diodorus Siculus\"
+urn:cite:chs:textgroup.tlg0060,urn:cts:greekLit:tlg0060:,"Diodorus Siculus","Diodorus Siculus"
 urn:cite:chs:textgroup.tlg0062,urn:cts:greekLit:tlg0062:,Lucianus,Lucian
-urn:cite:chs:textgroup.tlg0063,urn:cts:greekLit:tlg0063:,\"Dionysius Thrax\",\"Dionysius Thrax\"
-urn:cite:chs:textgroup.tlg0064,urn:cts:greekLit:tlg0064:,\"Periplus Hannonis\",\"Hanno the Navigator\"
-urn:cite:chs:textgroup.tlg0065,urn:cts:greekLit:tlg0065:,Scylax,\"Scylax (of Caryanda)\"
+urn:cite:chs:textgroup.tlg0063,urn:cts:greekLit:tlg0063:,"Dionysius Thrax","Dionysius Thrax"
+urn:cite:chs:textgroup.tlg0064,urn:cts:greekLit:tlg0064:,"Periplus Hannonis","Hanno the Navigator"
+urn:cite:chs:textgroup.tlg0065,urn:cts:greekLit:tlg0065:,Scylax,"Scylax (of Caryanda)"
 urn:cite:chs:textgroup.tlg0068,urn:cts:greekLit:tlg0068:,Pseudo-Scymnus,Pseudo-Scymnus
-urn:cite:chs:textgroup.tlg0074,urn:cts:greekLit:tlg0074:,\"Flavius Arrianus\",Arrian
-urn:cite:chs:textgroup.tlg0081,urn:cts:greekLit:tlg0081:,\"Dionysius Halicarnassensis\",\"Dionysius of Halicarnassus\"
-urn:cite:chs:textgroup.tlg0082,urn:cts:greekLit:tlg0082:,\"Apollonius Dyscolus\",\"Apollonius Dyscolus\"
+urn:cite:chs:textgroup.tlg0074,urn:cts:greekLit:tlg0074:,"Flavius Arrianus",Arrian
+urn:cite:chs:textgroup.tlg0081,urn:cts:greekLit:tlg0081:,"Dionysius Halicarnassensis","Dionysius of Halicarnassus"
+urn:cite:chs:textgroup.tlg0082,urn:cts:greekLit:tlg0082:,"Apollonius Dyscolus","Apollonius Dyscolus"
 urn:cite:chs:textgroup.tlg0083,urn:cts:greekLit:tlg0083:,Dionysius,Dionysius
 urn:cite:chs:textgroup.tlg0084,urn:cts:greekLit:tlg0084:,Dionysius,Dionysius
 urn:cite:chs:textgroup.tlg0085,urn:cts:greekLit:tlg0085:,Aeschylus,Aeschylus
-urn:cite:chs:textgroup.tlg0086,urn:cts:greekLit:tlg0086:,\"Aristoteles Et Corpus Aristotelicum\",\"The Works of Aristotle\"
-urn:cite:chs:textgroup.tlg0087,urn:cts:greekLit:tlg0087:,\"Aelius Herodianus Et Pseudo-Herodianus\",\"Herodian and Pseudo-Herodien\"
+urn:cite:chs:textgroup.tlg0086,urn:cts:greekLit:tlg0086:,"Aristoteles Et Corpus Aristotelicum","The Works of Aristotle"
+urn:cite:chs:textgroup.tlg0087,urn:cts:greekLit:tlg0087:,"Aelius Herodianus Et Pseudo-Herodianus","Herodian and Pseudo-Herodien"
 urn:cite:chs:textgroup.tlg0088,urn:cts:greekLit:tlg0088:,Aristoxenus,Aristoxenus
 urn:cite:chs:textgroup.tlg0093,urn:cts:greekLit:tlg0093:,Theophrastus,Theophrastus
-urn:cite:chs:textgroup.tlg0096,urn:cts:greekLit:tlg0096:,\"Aesopus Et Aesopica\",\"Aesop's Fables\"
+urn:cite:chs:textgroup.tlg0096,urn:cts:greekLit:tlg0096:,"Aesopus Et Aesopica","Aesop's Fables"
 urn:cite:chs:textgroup.tlg0097,urn:cts:greekLit:tlg0097:,Diogenianus,Diogenianus
-urn:cite:chs:textgroup.tlg0098,urn:cts:greekLit:tlg0098:,\"Zenobius Sophista\",Zenobius
+urn:cite:chs:textgroup.tlg0098,urn:cts:greekLit:tlg0098:,"Zenobius Sophista",Zenobius
 urn:cite:chs:textgroup.tlg0099,urn:cts:greekLit:tlg0099:,Strabo,Strabo
-urn:cite:chs:textgroup.tlg0186,urn:cts:greekLit:tlg0186:,\"Marcus Cornelius Fronto\",\"Marcus Cornelius Fronto\"
-urn:cite:chs:textgroup.tlg0222,urn:cts:greekLit:tlg0222:,\"Eratosthenes Et Eratosthenica\",\"Eratosthenes and Pseudo Eratosthenes\"
+urn:cite:chs:textgroup.tlg0186,urn:cts:greekLit:tlg0186:,"Marcus Cornelius Fronto","Marcus Cornelius Fronto"
+urn:cite:chs:textgroup.tlg0222,urn:cts:greekLit:tlg0222:,"Eratosthenes Et Eratosthenica","Eratosthenes and Pseudo Eratosthenes"
 urn:cite:chs:textgroup.tlg0268,urn:cts:greekLit:tlg0268:,Mesomedes,Mesomedes
-urn:cite:chs:textgroup.tlg0282,urn:cts:greekLit:tlg0282:,\"Anonymus De Viribus Herbarum\",\"Anonymus: On the Strength of Herbs\"
-urn:cite:chs:textgroup.tlg0284,urn:cts:greekLit:tlg0284:,\"Aelius Aristides\",\"Aelius Aristides\"
-urn:cite:chs:textgroup.tlg0317,urn:cts:greekLit:tlg0317:,\"Acta Joannis\",\"The Acts of John\"
+urn:cite:chs:textgroup.tlg0282,urn:cts:greekLit:tlg0282:,"Anonymus De Viribus Herbarum","Anonymus: On the Strength of Herbs"
+urn:cite:chs:textgroup.tlg0284,urn:cts:greekLit:tlg0284:,"Aelius Aristides","Aelius Aristides"
+urn:cite:chs:textgroup.tlg0317,urn:cts:greekLit:tlg0317:,"Acta Joannis","The Acts of John"
 urn:cite:chs:textgroup.tlg0341,urn:cts:greekLit:tlg0341:,Lycophron,Lycophron
-urn:cite:chs:textgroup.tlg0357,urn:cts:greekLit:tlg0357:,\"Didymus Scriptor De Mensuris\",\"Didymus Chalcenterus\"
+urn:cite:chs:textgroup.tlg0357,urn:cts:greekLit:tlg0357:,"Didymus Scriptor De Mensuris","Didymus Chalcenterus"
 urn:cite:chs:textgroup.tlg0358,urn:cts:greekLit:tlg0358:,Nicomachus,Nicomachus
 urn:cite:chs:textgroup.tlg0361,urn:cts:greekLit:tlg0361:,Cleonides,Cleonides
-urn:cite:chs:textgroup.tlg0363,urn:cts:greekLit:tlg0363:,\"Claudius Ptolemaeus\",Ptolemy
-urn:cite:chs:textgroup.tlg0384,urn:cts:greekLit:tlg0384:,\"Acta Justini Et Septem Sodalium\",\"The Acts of Justin and the Seven Companions\"
-urn:cite:chs:textgroup.tlg0385,urn:cts:greekLit:tlg0385:,\"Cassius Dio\",\"Cassius Dio\"
-urn:cite:chs:textgroup.tlg0388,urn:cts:greekLit:tlg0388:,\"Acta Pauli\",\"The Acts of Paul\"
-urn:cite:chs:textgroup.tlg0389,urn:cts:greekLit:tlg0389:,\"Acta Petri\",\"The Acts of Peter\"
-urn:cite:chs:textgroup.tlg0390,urn:cts:greekLit:tlg0390:,\"Martyrium Carpi, Papyli Et Agathonicae\",\"The Acts of Carpus, Papylus, and Agathonice\"
-urn:cite:chs:textgroup.tlg0391,urn:cts:greekLit:tlg0391:,\"Acta Scillitanorum Martyrum\",\"Acts Scillitan Martrs\"
+urn:cite:chs:textgroup.tlg0363,urn:cts:greekLit:tlg0363:,"Claudius Ptolemaeus",Ptolemy
+urn:cite:chs:textgroup.tlg0384,urn:cts:greekLit:tlg0384:,"Acta Justini Et Septem Sodalium","The Acts of Justin and the Seven Companions"
+urn:cite:chs:textgroup.tlg0385,urn:cts:greekLit:tlg0385:,"Cassius Dio","Cassius Dio"
+urn:cite:chs:textgroup.tlg0388,urn:cts:greekLit:tlg0388:,"Acta Pauli","The Acts of Paul"
+urn:cite:chs:textgroup.tlg0389,urn:cts:greekLit:tlg0389:,"Acta Petri","The Acts of Peter"
+urn:cite:chs:textgroup.tlg0390,urn:cts:greekLit:tlg0390:,"Martyrium Carpi, Papyli Et Agathonicae","The Acts of Carpus, Papylus, and Agathonice"
+urn:cite:chs:textgroup.tlg0391,urn:cts:greekLit:tlg0391:,"Acta Scillitanorum Martyrum","Acts Scillitan Martrs"
 urn:cite:chs:textgroup.tlg0525,urn:cts:greekLit:tlg0525:,Pausanias,Pausanias
 urn:cite:chs:textgroup.tlg0531,urn:cts:greekLit:tlg0531:,Hermias,Hermias
-urn:cite:chs:textgroup.tlg0532,urn:cts:greekLit:tlg0532:,\"Achilles Tatius\",\"Achilles Tatius\"
+urn:cite:chs:textgroup.tlg0532,urn:cts:greekLit:tlg0532:,"Achilles Tatius","Achilles Tatius"
 urn:cite:chs:textgroup.tlg0533,urn:cts:greekLit:tlg0533:,Callimachus,Callimachus
 urn:cite:chs:textgroup.tlg0537,urn:cts:greekLit:tlg0537:,Epicurus,Epicurus
 urn:cite:chs:textgroup.tlg0540,urn:cts:greekLit:tlg0540:,Lysias,Lysias
 urn:cite:chs:textgroup.tlg0541,urn:cts:greekLit:tlg0541:,Menander,Menander
-urn:cite:chs:textgroup.tlg0542,urn:cts:greekLit:tlg0542:,\"Julius Pollux\",\"Julius Pollux\"
+urn:cite:chs:textgroup.tlg0542,urn:cts:greekLit:tlg0542:,"Julius Pollux","Julius Pollux"
 urn:cite:chs:textgroup.tlg0543,urn:cts:greekLit:tlg0543:,Polybius,Polybius
-urn:cite:chs:textgroup.tlg0544,urn:cts:greekLit:tlg0544:,\"Sextus Empiricus\",\"Sextus Empiricus\"
-urn:cite:chs:textgroup.tlg0545,urn:cts:greekLit:tlg0545:,\"Claudius Aelianus\",Aelian
+urn:cite:chs:textgroup.tlg0544,urn:cts:greekLit:tlg0544:,"Sextus Empiricus","Sextus Empiricus"
+urn:cite:chs:textgroup.tlg0545,urn:cts:greekLit:tlg0545:,"Claudius Aelianus",Aelian
 urn:cite:chs:textgroup.tlg0546,urn:cts:greekLit:tlg0546:,Aelianus,Aelianus
 urn:cite:chs:textgroup.tlg0547,urn:cts:greekLit:tlg0547:,Anaximenes,Anaximenes
 urn:cite:chs:textgroup.tlg0548,urn:cts:greekLit:tlg0548:,Pseudo-Apollodorus,Pseudo-Apollodorus
-urn:cite:chs:textgroup.tlg0550,urn:cts:greekLit:tlg0550:,Apollonius,\"Apollonius (of Perga)\"
+urn:cite:chs:textgroup.tlg0550,urn:cts:greekLit:tlg0550:,Apollonius,"Apollonius (of Perga)"
 urn:cite:chs:textgroup.tlg0551,urn:cts:greekLit:tlg0551:,Appianus,Appian
 urn:cite:chs:textgroup.tlg0552,urn:cts:greekLit:tlg0552:,Archimedes,Archimedes
 urn:cite:chs:textgroup.tlg0553,urn:cts:greekLit:tlg0553:,Artemidorus,Artemidorus
 urn:cite:chs:textgroup.tlg0554,urn:cts:greekLit:tlg0554:,Chariton,Chariton
-urn:cite:chs:textgroup.tlg0555,urn:cts:greekLit:tlg0555:,\"Clemens Alexandrinus\",\"Clement of Alexandria\"
-urn:cite:chs:textgroup.tlg0556,urn:cts:greekLit:tlg0556:,Asclepiodotus,\"Asclepiodotus Tacticus\"
+urn:cite:chs:textgroup.tlg0555,urn:cts:greekLit:tlg0555:,"Clemens Alexandrinus","Clement of Alexandria"
+urn:cite:chs:textgroup.tlg0556,urn:cts:greekLit:tlg0556:,Asclepiodotus,"Asclepiodotus Tacticus"
 urn:cite:chs:textgroup.tlg0557,urn:cts:greekLit:tlg0557:,Epictetus,Epictetus
 urn:cite:chs:textgroup.tlg0561,urn:cts:greekLit:tlg0561:,Longus,Longus
-urn:cite:chs:textgroup.tlg0562,urn:cts:greekLit:tlg0562:,\"Marcus Aurelius Antoninus Imperator\",\"Marcus Aurelius\"
-urn:cite:chs:textgroup.tlg0563,urn:cts:greekLit:tlg0563:,Maximus,\"Maximus of Tyre\"
-urn:cite:chs:textgroup.tlg0564,urn:cts:greekLit:tlg0564:,Rufus,\"Rufus (of Ephesus)\"
+urn:cite:chs:textgroup.tlg0562,urn:cts:greekLit:tlg0562:,"Marcus Aurelius Antoninus Imperator","Marcus Aurelius"
+urn:cite:chs:textgroup.tlg0563,urn:cts:greekLit:tlg0563:,Maximus,"Maximus of Tyre"
+urn:cite:chs:textgroup.tlg0564,urn:cts:greekLit:tlg0564:,Rufus,"Rufus (of Ephesus)"
 urn:cite:chs:textgroup.tlg0565,urn:cts:greekLit:tlg0565:,Soranus,Soranus
-urn:cite:chs:textgroup.tlg0568,urn:cts:greekLit:tlg0568:,Antigonus,\"Antigonus of Carystus\"
-urn:cite:chs:textgroup.tlg0569,urn:cts:greekLit:tlg0569:,Apollonius,\"Apollonius The Paradoxographer\"
-urn:cite:chs:textgroup.tlg0580,urn:cts:greekLit:tlg0580:,\"Paradoxographus Florentinus\",\"Florentius the Paradoxographer\"
-urn:cite:chs:textgroup.tlg0581,urn:cts:greekLit:tlg0581:,\"Paradoxographus Palatinus\",\"Palatinus the Paradoxographer\"
-urn:cite:chs:textgroup.tlg0582,urn:cts:greekLit:tlg0582:,\"Paradoxographus Vaticanus\",\"Vaticanus the Paradoxographer\"
-urn:cite:chs:textgroup.tlg0585,urn:cts:greekLit:tlg0585:,\"Publius Aelius Phlegon\",Phlegon
+urn:cite:chs:textgroup.tlg0568,urn:cts:greekLit:tlg0568:,Antigonus,"Antigonus of Carystus"
+urn:cite:chs:textgroup.tlg0569,urn:cts:greekLit:tlg0569:,Apollonius,"Apollonius The Paradoxographer"
+urn:cite:chs:textgroup.tlg0580,urn:cts:greekLit:tlg0580:,"Paradoxographus Florentinus","Florentius the Paradoxographer"
+urn:cite:chs:textgroup.tlg0581,urn:cts:greekLit:tlg0581:,"Paradoxographus Palatinus","Palatinus the Paradoxographer"
+urn:cite:chs:textgroup.tlg0582,urn:cts:greekLit:tlg0582:,"Paradoxographus Vaticanus","Vaticanus the Paradoxographer"
+urn:cite:chs:textgroup.tlg0585,urn:cts:greekLit:tlg0585:,"Publius Aelius Phlegon",Phlegon
 urn:cite:chs:textgroup.tlg0592,urn:cts:greekLit:tlg0592:,Hermogenes,Hermogenes
-urn:cite:chs:textgroup.tlg0594,urn:cts:greekLit:tlg0594:,Alexander,\"Alexander Numenius\"
-urn:cite:chs:textgroup.tlg0597,urn:cts:greekLit:tlg0597:,Zenodorus,\"Zenodorus Grammaticus\"
+urn:cite:chs:textgroup.tlg0594,urn:cts:greekLit:tlg0594:,Alexander,"Alexander Numenius"
+urn:cite:chs:textgroup.tlg0597,urn:cts:greekLit:tlg0597:,Zenodorus,"Zenodorus Grammaticus"
 urn:cite:chs:textgroup.tlg0606,urn:cts:greekLit:tlg0606:,Rufus,Rufus
-urn:cite:chs:textgroup.tlg0607,urn:cts:greekLit:tlg0607:,\"Aelius Theon\",\"Aelius Theon\"
-urn:cite:chs:textgroup.tlg0609,urn:cts:greekLit:tlg0609:,\"Tryphon I\",Tryphon
-urn:cite:chs:textgroup.tlg0612,urn:cts:greekLit:tlg0612:,\"Dio Chrysostomus\",\"Dio Chrysostom\"
-urn:cite:chs:textgroup.tlg0613,urn:cts:greekLit:tlg0613:,Demetrius,\"Demetrius (of Phalerum)\"
-urn:cite:chs:textgroup.tlg0614,urn:cts:greekLit:tlg0614:,\"Valerius Babrius\",\"Valerius Babrius\"
+urn:cite:chs:textgroup.tlg0607,urn:cts:greekLit:tlg0607:,"Aelius Theon","Aelius Theon"
+urn:cite:chs:textgroup.tlg0609,urn:cts:greekLit:tlg0609:,"Tryphon I",Tryphon
+urn:cite:chs:textgroup.tlg0612,urn:cts:greekLit:tlg0612:,"Dio Chrysostomus","Dio Chrysostom"
+urn:cite:chs:textgroup.tlg0613,urn:cts:greekLit:tlg0613:,Demetrius,"Demetrius (of Phalerum)"
+urn:cite:chs:textgroup.tlg0614,urn:cts:greekLit:tlg0614:,"Valerius Babrius","Valerius Babrius"
 urn:cite:chs:textgroup.tlg0615,urn:cts:greekLit:tlg0615:,Aspasius,Aspasius
 urn:cite:chs:textgroup.tlg0616,urn:cts:greekLit:tlg0616:,Polyaenus,Polyenus
 urn:cite:chs:textgroup.tlg0624,urn:cts:greekLit:tlg0624:,Demetrius,Demetrius
-urn:cite:chs:textgroup.tlg0627,urn:cts:greekLit:tlg0627:,\"Hippocrates Et Corpus Hippocraticum\",\"Hippocrates and Pseudo Hippocrates\"
-urn:cite:chs:textgroup.tlg0638,urn:cts:greekLit:tlg0638:,\"Flavius Philostratus\",Philostratus
+urn:cite:chs:textgroup.tlg0627,urn:cts:greekLit:tlg0627:,"Hippocrates Et Corpus Hippocraticum","Hippocrates and Pseudo Hippocrates"
+urn:cite:chs:textgroup.tlg0638,urn:cts:greekLit:tlg0638:,"Flavius Philostratus",Philostratus
 urn:cite:chs:textgroup.tlg0640,urn:cts:greekLit:tlg0640:,Alciphron,Alciphron
-urn:cite:chs:textgroup.tlg0641,urn:cts:greekLit:tlg0641:,Xenophon,\"Xenophon (of Ephesus)\"
-urn:cite:chs:textgroup.tlg0644,urn:cts:greekLit:tlg0644:,Aristophanes,\"Aristophanes (of Byzantium)\"
-urn:cite:chs:textgroup.tlg0645,urn:cts:greekLit:tlg0645:,\"Justinus Martyr\",\"Justin Martyr\"
+urn:cite:chs:textgroup.tlg0641,urn:cts:greekLit:tlg0641:,Xenophon,"Xenophon (of Ephesus)"
+urn:cite:chs:textgroup.tlg0644,urn:cts:greekLit:tlg0644:,Aristophanes,"Aristophanes (of Byzantium)"
+urn:cite:chs:textgroup.tlg0645,urn:cts:greekLit:tlg0645:,"Justinus Martyr","Justin Martyr"
 urn:cite:chs:textgroup.tlg0649,urn:cts:greekLit:tlg0649:,Lesbonax,Lesbonax
-urn:cite:chs:textgroup.tlg0651,urn:cts:greekLit:tlg0651:,\"Antoninus Liberalis\",\"Antoninus Liberalis\"
-urn:cite:chs:textgroup.tlg0652,urn:cts:greekLit:tlg0652:,\"Philostratus Junior\",\"Philostratus the Younger\"
+urn:cite:chs:textgroup.tlg0651,urn:cts:greekLit:tlg0651:,"Antoninus Liberalis","Antoninus Liberalis"
+urn:cite:chs:textgroup.tlg0652,urn:cts:greekLit:tlg0652:,"Philostratus Junior","Philostratus the Younger"
 urn:cite:chs:textgroup.tlg0653,urn:cts:greekLit:tlg0653:,Aratus,Aratus
 urn:cite:chs:textgroup.tlg0655,urn:cts:greekLit:tlg0655:,Parthenius,Parthenius
 urn:cite:chs:textgroup.tlg0657,urn:cts:greekLit:tlg0657:,Crateuas,Crateuas
 urn:cite:chs:textgroup.tlg0658,urn:cts:greekLit:tlg0658:,Heliodorus,Heliodorus
 urn:cite:chs:textgroup.tlg0660,urn:cts:greekLit:tlg0660:,Apollonius,Apollonius
-urn:cite:chs:textgroup.tlg0663,urn:cts:greekLit:tlg0663:,\"Praecepta Salubria\",\"Praecepta Salubria\"
+urn:cite:chs:textgroup.tlg0663,urn:cts:greekLit:tlg0663:,"Praecepta Salubria","Praecepta Salubria"
 urn:cite:chs:textgroup.tlg0666,urn:cts:greekLit:tlg0666:,Adrianus,Hadrian
-urn:cite:chs:textgroup.tlg0667,urn:cts:greekLit:tlg0667:,\"Marcellinus I\",Marcellinus
+urn:cite:chs:textgroup.tlg0667,urn:cts:greekLit:tlg0667:,"Marcellinus I",Marcellinus
 urn:cite:chs:textgroup.tlg0671,urn:cts:greekLit:tlg0671:,Philumenus,Philumenus
 urn:cite:chs:textgroup.tlg0676,urn:cts:greekLit:tlg0676:,Aglais,Aglais
 urn:cite:chs:textgroup.tlg0693,urn:cts:greekLit:tlg0693:,Albinus,Albinus
 urn:cite:chs:textgroup.tlg0708,urn:cts:greekLit:tlg0708:,Ammonius,Ammonius
 urn:cite:chs:textgroup.tlg0717,urn:cts:greekLit:tlg0717:,Hypsicles,Hypsicles
 urn:cite:chs:textgroup.tlg0719,urn:cts:greekLit:tlg0719:,Aretaeus,Aretaeus
-urn:cite:chs:textgroup.tlg0732,urn:cts:greekLit:tlg0732:,Alexander,\"Alexander of Aphrodisias\"
-urn:cite:chs:textgroup.tlg0733,urn:cts:greekLit:tlg0733:,\"Cassius Iatrosophista\",\"Cassius Iatrosophista\"
-urn:cite:chs:textgroup.tlg0749,urn:cts:greekLit:tlg0749:,\"Antoninus Liberalis\",\"Antoninus Liberalis\"
-urn:cite:chs:textgroup.tlg1016,urn:cts:greekLit:tlg1016:,\"Ostanes Magus\",Ostanes
-urn:cite:chs:textgroup.tlg1124,urn:cts:greekLit:tlg1124:,\"Andronicus Rhodius\",\"Andronicus of Rhodes\"
-urn:cite:chs:textgroup.tlg1149,urn:cts:greekLit:tlg1149:,\"Antonini Pii Imperatoris Epistula\",\"The Letters of Emperor Antoninus Pius\"
-urn:cite:chs:textgroup.tlg1157,urn:cts:greekLit:tlg1157:,\"Apocalypsis Esdrae\",\"The Apocalypse of Ezra\"
-urn:cite:chs:textgroup.tlg1158,urn:cts:greekLit:tlg1158:,\"Apocalypsis Joannis\",\"The Apocryphon of John\"
+urn:cite:chs:textgroup.tlg0732,urn:cts:greekLit:tlg0732:,Alexander,"Alexander of Aphrodisias"
+urn:cite:chs:textgroup.tlg0733,urn:cts:greekLit:tlg0733:,"Cassius Iatrosophista","Cassius Iatrosophista"
+urn:cite:chs:textgroup.tlg0749,urn:cts:greekLit:tlg0749:,"Antoninus Liberalis","Antoninus Liberalis"
+urn:cite:chs:textgroup.tlg1016,urn:cts:greekLit:tlg1016:,"Ostanes Magus",Ostanes
+urn:cite:chs:textgroup.tlg1124,urn:cts:greekLit:tlg1124:,"Andronicus Rhodius","Andronicus of Rhodes"
+urn:cite:chs:textgroup.tlg1149,urn:cts:greekLit:tlg1149:,"Antonini Pii Imperatoris Epistula","The Letters of Emperor Antoninus Pius"
+urn:cite:chs:textgroup.tlg1157,urn:cts:greekLit:tlg1157:,"Apocalypsis Esdrae","The Apocalypse of Ezra"
+urn:cite:chs:textgroup.tlg1158,urn:cts:greekLit:tlg1158:,"Apocalypsis Joannis","The Apocryphon of John"
 urn:cite:chs:textgroup.tlg1165,urn:cts:greekLit:tlg1165:,Apollodorus,Apollodorus
 urn:cite:chs:textgroup.tlg1167,urn:cts:greekLit:tlg1167:,Apollonius,Apollonius
-urn:cite:chs:textgroup.tlg1168,urn:cts:greekLit:tlg1168:,Apollonius,\"Apollonius the Sophist\"
+urn:cite:chs:textgroup.tlg1168,urn:cts:greekLit:tlg1168:,Apollonius,"Apollonius the Sophist"
 urn:cite:chs:textgroup.tlg1181,urn:cts:greekLit:tlg1181:,Aristarchus,Aristarchus
-urn:cite:chs:textgroup.tlg1183,urn:cts:greekLit:tlg1183:,\"Aristeae Epistula\",\"Letter of Aristeas\"
-urn:cite:chs:textgroup.tlg1204,urn:cts:greekLit:tlg1204:,Athenaeus,\"Athenaeus Mechanicus\"
+urn:cite:chs:textgroup.tlg1183,urn:cts:greekLit:tlg1183:,"Aristeae Epistula","Letter of Aristeas"
+urn:cite:chs:textgroup.tlg1204,urn:cts:greekLit:tlg1204:,Athenaeus,"Athenaeus Mechanicus"
 urn:cite:chs:textgroup.tlg1205,urn:cts:greekLit:tlg1205:,Athenagoras,Athenagoras
 urn:cite:chs:textgroup.tlg1210,urn:cts:greekLit:tlg1210:,Autolycus,Autolycus
-urn:cite:chs:textgroup.tlg1216,urn:cts:greekLit:tlg1216:,\"Barnabae Epistula\",\"Epistle of Barnabas\"
-urn:cite:chs:textgroup.tlg1220,urn:cts:greekLit:tlg1220:,Batrachomyomachia,\"Battle of Frogs and Mice\"
-urn:cite:chs:textgroup.tlg1252,urn:cts:greekLit:tlg1252:,\"Certamen Homeri Et Hesiodi\",\"Contest of Homer and Hesiod\"
+urn:cite:chs:textgroup.tlg1216,urn:cts:greekLit:tlg1216:,"Barnabae Epistula","Epistle of Barnabas"
+urn:cite:chs:textgroup.tlg1220,urn:cts:greekLit:tlg1220:,Batrachomyomachia,"Battle of Frogs and Mice"
+urn:cite:chs:textgroup.tlg1252,urn:cts:greekLit:tlg1252:,"Certamen Homeri Et Hesiodi","Contest of Homer and Hesiod"
 urn:cite:chs:textgroup.tlg1272,urn:cts:greekLit:tlg1272:,Cleomedes,Cleomedes
 urn:cite:chs:textgroup.tlg1302,urn:cts:greekLit:tlg1302:,Demetrius,Demetrius
 urn:cite:chs:textgroup.tlg1306,urn:cts:greekLit:tlg1306:,Bolus,Bolus
 urn:cite:chs:textgroup.tlg1337,urn:cts:greekLit:tlg1337:,Dorotheus,Dorotheus
-urn:cite:chs:textgroup.tlg1350,urn:cts:greekLit:tlg1350:,\"Epistula Ad Diognetum\",\"Epistle to Diognetus\"
-urn:cite:chs:textgroup.tlg1352,urn:cts:greekLit:tlg1352:,\"Epistula Ecclesiarum Apud Lugdunum Et Viennam\",\"Letter from Vienna and Lyons\"
-urn:cite:chs:textgroup.tlg1365,urn:cts:greekLit:tlg1365:,\"Melampus Scriptor De Divinatione\",Melampus
-urn:cite:chs:textgroup.tlg1366,urn:cts:greekLit:tlg1366:,\"Evangelium Bartholomaei\",\"The Gospel of Bartholomew\"
-urn:cite:chs:textgroup.tlg1367,urn:cts:greekLit:tlg1367:,\"Euripidis Epistulae\",\"The Letters of Euripides\"
-urn:cite:chs:textgroup.tlg1371,urn:cts:greekLit:tlg1371:,\"Evangelium Petri\",\"The Gospel of Peter\"
-urn:cite:chs:textgroup.tlg1376,urn:cts:greekLit:tlg1376:,Eudemus,\"Eudemus (of Rhodes)\"
-urn:cite:chs:textgroup.tlg1383,urn:cts:greekLit:tlg1383:,Geminus,\"Geminus (of Rhodes)\"
+urn:cite:chs:textgroup.tlg1350,urn:cts:greekLit:tlg1350:,"Epistula Ad Diognetum","Epistle to Diognetus"
+urn:cite:chs:textgroup.tlg1352,urn:cts:greekLit:tlg1352:,"Epistula Ecclesiarum Apud Lugdunum Et Viennam","Letter from Vienna and Lyons"
+urn:cite:chs:textgroup.tlg1365,urn:cts:greekLit:tlg1365:,"Melampus Scriptor De Divinatione",Melampus
+urn:cite:chs:textgroup.tlg1366,urn:cts:greekLit:tlg1366:,"Evangelium Bartholomaei","The Gospel of Bartholomew"
+urn:cite:chs:textgroup.tlg1367,urn:cts:greekLit:tlg1367:,"Euripidis Epistulae","The Letters of Euripides"
+urn:cite:chs:textgroup.tlg1371,urn:cts:greekLit:tlg1371:,"Evangelium Petri","The Gospel of Peter"
+urn:cite:chs:textgroup.tlg1376,urn:cts:greekLit:tlg1376:,Eudemus,"Eudemus (of Rhodes)"
+urn:cite:chs:textgroup.tlg1383,urn:cts:greekLit:tlg1383:,Geminus,"Geminus (of Rhodes)"
 urn:cite:chs:textgroup.tlg1389,urn:cts:greekLit:tlg1389:,Harpocration,Harpocration
 urn:cite:chs:textgroup.tlg1402,urn:cts:greekLit:tlg1402:,Hephaestion,Hephaestion
-urn:cite:chs:textgroup.tlg1405,urn:cts:greekLit:tlg1405:,\"Heraclides Criticus\",\"Heraclides Criticus\"
-urn:cite:chs:textgroup.tlg1407,urn:cts:greekLit:tlg1407:,\"Heraclides Lembus\",\"Heraclides Lembus\"
-urn:cite:chs:textgroup.tlg1416,urn:cts:greekLit:tlg1416:,\"Herennius Philo\",\"Philo of Byblos\"
-urn:cite:chs:textgroup.tlg1419,urn:cts:greekLit:tlg1419:,Hermas,\"The Shepard of Hermas\"
-urn:cite:chs:textgroup.tlg1426,urn:cts:greekLit:tlg1426:,\"Herodes Atticus\",\"Herodes Atticus\"
+urn:cite:chs:textgroup.tlg1405,urn:cts:greekLit:tlg1405:,"Heraclides Criticus","Heraclides Criticus"
+urn:cite:chs:textgroup.tlg1407,urn:cts:greekLit:tlg1407:,"Heraclides Lembus","Heraclides Lembus"
+urn:cite:chs:textgroup.tlg1416,urn:cts:greekLit:tlg1416:,"Herennius Philo","Philo of Byblos"
+urn:cite:chs:textgroup.tlg1419,urn:cts:greekLit:tlg1419:,Hermas,"The Shepard of Hermas"
+urn:cite:chs:textgroup.tlg1426,urn:cts:greekLit:tlg1426:,"Herodes Atticus","Herodes Atticus"
 urn:cite:chs:textgroup.tlg1431,urn:cts:greekLit:tlg1431:,Hipparchus,Hipparchus
-urn:cite:chs:textgroup.tlg1443,urn:cts:greekLit:tlg1443:,Ignatius,\"St. Ignatius of Antioch\"
-urn:cite:chs:textgroup.tlg1451,urn:cts:greekLit:tlg1451:,\"Josephus Et Aseneth\",\"Joseph and Aseneth\"
-urn:cite:chs:textgroup.tlg1463,urn:cts:greekLit:tlg1463:,\"Liber Enoch\",\"The Book of Enoch\"
-urn:cite:chs:textgroup.tlg1464,urn:cts:greekLit:tlg1464:,\"Liber Jubilaeorum\",\"The Book of Jubilees\"
+urn:cite:chs:textgroup.tlg1443,urn:cts:greekLit:tlg1443:,Ignatius,"St. Ignatius of Antioch"
+urn:cite:chs:textgroup.tlg1451,urn:cts:greekLit:tlg1451:,"Josephus Et Aseneth","Joseph and Aseneth"
+urn:cite:chs:textgroup.tlg1463,urn:cts:greekLit:tlg1463:,"Liber Enoch","The Book of Enoch"
+urn:cite:chs:textgroup.tlg1464,urn:cts:greekLit:tlg1464:,"Liber Jubilaeorum","The Book of Jubilees"
 urn:cite:chs:textgroup.tlg1482,urn:cts:greekLit:tlg1482:,Cyranides,Cyranides
-urn:cite:chs:textgroup.tlg1485,urn:cts:greekLit:tlg1485:,\"Martyrium Ptolemaei Et Lucii\",\"The Acts of Ptolemaeus and Lucius\"
+urn:cite:chs:textgroup.tlg1485,urn:cts:greekLit:tlg1485:,"Martyrium Ptolemaei Et Lucii","The Acts of Ptolemaeus and Lucius"
 urn:cite:chs:textgroup.tlg1515,urn:cts:greekLit:tlg1515:,Moeris,Moeris
-urn:cite:chs:textgroup.tlg1521,urn:cts:greekLit:tlg1521:,\"Vita Et Sententiae Secundi\",\"Life and Sayings of Secundus\"
+urn:cite:chs:textgroup.tlg1521,urn:cts:greekLit:tlg1521:,"Vita Et Sententiae Secundi","Life and Sayings of Secundus"
 urn:cite:chs:textgroup.tlg1527,urn:cts:greekLit:tlg1527:,Nepualius,Nepualius
 urn:cite:chs:textgroup.tlg1545,urn:cts:greekLit:tlg1545:,Ocellus,Ocellus
 urn:cite:chs:textgroup.tlg1599,urn:cts:greekLit:tlg1599:,Philo,Philo
-urn:cite:chs:textgroup.tlg1600,urn:cts:greekLit:tlg1600:,\"Philostratus Major\",Philostratus
+urn:cite:chs:textgroup.tlg1600,urn:cts:greekLit:tlg1600:,"Philostratus Major",Philostratus
 urn:cite:chs:textgroup.tlg1605,urn:cts:greekLit:tlg1605:,Pseudo-Phocylides,Pseudo-Phocylides
-urn:cite:chs:textgroup.tlg1608,urn:cts:greekLit:tlg1608:,Phrynichus,\"Phrynichus of Bithynia\"
-urn:cite:chs:textgroup.tlg1617,urn:cts:greekLit:tlg1617:,\"Marcus Antonius Polemon\",\"Polemon of Laodicea\"
+urn:cite:chs:textgroup.tlg1608,urn:cts:greekLit:tlg1608:,Phrynichus,"Phrynichus of Bithynia"
+urn:cite:chs:textgroup.tlg1617,urn:cts:greekLit:tlg1617:,"Marcus Antonius Polemon","Polemon of Laodicea"
 urn:cite:chs:textgroup.tlg1622,urn:cts:greekLit:tlg1622:,Polycarpus,Polycarp
-urn:cite:chs:textgroup.tlg1637,urn:cts:greekLit:tlg1637:,\"Protevangelium Jacobi\",\"The Infancy Gospel of James\"
-urn:cite:chs:textgroup.tlg1666,urn:cts:greekLit:tlg1666:,\"Sententiae Sexti\",\"The Sentences of Sextus\"
+urn:cite:chs:textgroup.tlg1637,urn:cts:greekLit:tlg1637:,"Protevangelium Jacobi","The Infancy Gospel of James"
+urn:cite:chs:textgroup.tlg1666,urn:cts:greekLit:tlg1666:,"Sententiae Sexti","The Sentences of Sextus"
 urn:cite:chs:textgroup.tlg1692,urn:cts:greekLit:tlg1692:,Speusippus,Speusippus
-urn:cite:chs:textgroup.tlg1700,urn:cts:greekLit:tlg1700:,\"Testamenta XII Patriarcharum\",\"The Testaments of the Twelve Patriarchs\"
-urn:cite:chs:textgroup.tlg1702,urn:cts:greekLit:tlg1702:,\"Testamentum Jobi\",\"The Testament of Job\"
-urn:cite:chs:textgroup.tlg1719,urn:cts:greekLit:tlg1719:,Theodosius,\"Theodosius of Bithynia\"
-urn:cite:chs:textgroup.tlg1724,urn:cts:greekLit:tlg1724:,Theon,\"Theon (of Smyrna)\"
+urn:cite:chs:textgroup.tlg1700,urn:cts:greekLit:tlg1700:,"Testamenta XII Patriarcharum","The Testaments of the Twelve Patriarchs"
+urn:cite:chs:textgroup.tlg1702,urn:cts:greekLit:tlg1702:,"Testamentum Jobi","The Testament of Job"
+urn:cite:chs:textgroup.tlg1719,urn:cts:greekLit:tlg1719:,Theodosius,"Theodosius of Bithynia"
+urn:cite:chs:textgroup.tlg1724,urn:cts:greekLit:tlg1724:,Theon,"Theon (of Smyrna)"
 urn:cite:chs:textgroup.tlg1725,urn:cts:greekLit:tlg1725:,Theophilus,Theophilus
-urn:cite:chs:textgroup.tlg1747,urn:cts:greekLit:tlg1747:,\"Vita Adam Et Evae\",\"The Life of Adam and Eve\"
-urn:cite:chs:textgroup.tlg1760,urn:cts:greekLit:tlg1760:,\"Gaius Suetonius Tranquillus\",Suetonius
-urn:cite:chs:textgroup.tlg1763,urn:cts:greekLit:tlg1763:,\"Tryphon II\",Tryphon
-urn:cite:chs:textgroup.tlg1764,urn:cts:greekLit:tlg1764:,\"Vettius Valens\",\"Vettius Valens\"
+urn:cite:chs:textgroup.tlg1747,urn:cts:greekLit:tlg1747:,"Vita Adam Et Evae","The Life of Adam and Eve"
+urn:cite:chs:textgroup.tlg1760,urn:cts:greekLit:tlg1760:,"Gaius Suetonius Tranquillus",Suetonius
+urn:cite:chs:textgroup.tlg1763,urn:cts:greekLit:tlg1763:,"Tryphon II",Tryphon
+urn:cite:chs:textgroup.tlg1764,urn:cts:greekLit:tlg1764:,"Vettius Valens","Vettius Valens"
 urn:cite:chs:textgroup.tlg1766,urn:cts:greekLit:tlg1766:,Tatianus,Tatian
-urn:cite:chs:textgroup.tlg1772,urn:cts:greekLit:tlg1772:,\"Paraleipomena Jeremiou\",\"Paralipomena of Jeremiah\"
+urn:cite:chs:textgroup.tlg1772,urn:cts:greekLit:tlg1772:,"Paraleipomena Jeremiou","Paralipomena of Jeremiah"
 urn:cite:chs:textgroup.tlg1799,urn:cts:greekLit:tlg1799:,Euclides,Euclid
 urn:cite:chs:textgroup.tlg2000,urn:cts:greekLit:tlg2000:,Plotinus,Plotinus
-urn:cite:chs:textgroup.tlg2002,urn:cts:greekLit:tlg2002:,\"Anonymus Seguerianus\",\"The Anonymus Seguerianus\"
-urn:cite:chs:textgroup.tlg2027,urn:cts:greekLit:tlg2027:,\"Valerius Apsines\",\"Valerius Apsines\"
+urn:cite:chs:textgroup.tlg2002,urn:cts:greekLit:tlg2002:,"Anonymus Seguerianus","The Anonymus Seguerianus"
+urn:cite:chs:textgroup.tlg2027,urn:cts:greekLit:tlg2027:,"Valerius Apsines","Valerius Apsines"
 urn:cite:chs:textgroup.tlg2034,urn:cts:greekLit:tlg2034:,Porphyrius,Porphyry
-urn:cite:chs:textgroup.tlg2038,urn:cts:greekLit:tlg2038:,\"Acta Thomae\",\"The Acts of Thomas\"
+urn:cite:chs:textgroup.tlg2038,urn:cts:greekLit:tlg2038:,"Acta Thomae","The Acts of Thomas"
 urn:cite:chs:textgroup.tlg2039,urn:cts:greekLit:tlg2039:,Diophantus,Diophantus
 urn:cite:chs:textgroup.tlg2042,urn:cts:greekLit:tlg2042:,Origenes,Origen
-urn:cite:chs:textgroup.tlg2054,urn:cts:greekLit:tlg2054:,\"Aristides Quintilianus\",\"Aristides Quintilianus\"
-urn:cite:chs:textgroup.tlg2063,urn:cts:greekLit:tlg2063:,\"Gregorius Thaumaturgus\",\"Saint Gregory of Neocaesarea/ Gregory the Wonderworker\"
-urn:cite:chs:textgroup.tlg2115,urn:cts:greekLit:tlg2115:,Hippolytus,\"Hippolytus of Rome\"
-urn:cite:chs:textgroup.tlg2133,urn:cts:greekLit:tlg2133:,\"Achilles Tatius\",\"Achilles Tatius\"
-urn:cite:chs:textgroup.tlg2178,urn:cts:greekLit:tlg2178:,\"Cassius Longinus\",\"Cassius Longinus\"
+urn:cite:chs:textgroup.tlg2054,urn:cts:greekLit:tlg2054:,"Aristides Quintilianus","Aristides Quintilianus"
+urn:cite:chs:textgroup.tlg2063,urn:cts:greekLit:tlg2063:,"Gregorius Thaumaturgus","Saint Gregory of Neocaesarea/ Gregory the Wonderworker"
+urn:cite:chs:textgroup.tlg2115,urn:cts:greekLit:tlg2115:,Hippolytus,"Hippolytus of Rome"
+urn:cite:chs:textgroup.tlg2133,urn:cts:greekLit:tlg2133:,"Achilles Tatius","Achilles Tatius"
+urn:cite:chs:textgroup.tlg2178,urn:cts:greekLit:tlg2178:,"Cassius Longinus","Cassius Longinus"
 urn:cite:chs:textgroup.tlg2181,urn:cts:greekLit:tlg2181:,Moses,Moses
-urn:cite:chs:textgroup.tlg2248,urn:cts:greekLit:tlg2248:,\"Acta Xanthippae Et Polyxenae\",\"Acts of Xanthippe, Polyxena, and Rebecca\"
-urn:cite:chs:textgroup.tlg2577,urn:cts:greekLit:tlg2577:,Anatolius,\"Anatolius of Laodicea\"
+urn:cite:chs:textgroup.tlg2248,urn:cts:greekLit:tlg2248:,"Acta Xanthippae Et Polyxenae","Acts of Xanthippe, Polyxena, and Rebecca"
+urn:cite:chs:textgroup.tlg2577,urn:cts:greekLit:tlg2577:,Anatolius,"Anatolius of Laodicea"
 urn:cite:chs:textgroup.tlg2583,urn:cts:greekLit:tlg2583:,Manetho,Manetho
-urn:cite:chs:textgroup.tlg2600,urn:cts:greekLit:tlg2600:,\"Simon Scriptor De Re Equestri\",\"Simon, writer On Horsemanship\"
-urn:cite:chs:textgroup.tlg2679,urn:cts:greekLit:tlg2679:,\"Testamentum Salomonis\",\"Odes/ Psalms of Solomon\"
-urn:cite:chs:textgroup.tlg2903,urn:cts:greekLit:tlg2903:,\"Minucianus Junior\",\"Minucianus the Younger\"
-urn:cite:chs:textgroup.tlg2956,urn:cts:greekLit:tlg2956:,\"Sextus Julius Africanus\",\"Sextus Julius Africanus\"
+urn:cite:chs:textgroup.tlg2600,urn:cts:greekLit:tlg2600:,"Simon Scriptor De Re Equestri","Simon, writer On Horsemanship"
+urn:cite:chs:textgroup.tlg2679,urn:cts:greekLit:tlg2679:,"Testamentum Salomonis","Odes/ Psalms of Solomon"
+urn:cite:chs:textgroup.tlg2903,urn:cts:greekLit:tlg2903:,"Minucianus Junior","Minucianus the Younger"
+urn:cite:chs:textgroup.tlg2956,urn:cts:greekLit:tlg2956:,"Sextus Julius Africanus","Sextus Julius Africanus"
 urn:cite:chs:textgroup.tlg4086,urn:cts:greekLit:tlg4086:,Agathodaemon,Agathodaimon
