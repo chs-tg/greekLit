@@ -19,7 +19,3 @@ The `greekLit` subnamespace registry is in the public domain.
 
 
 To propose the addtion of new textgroup of work, file a new issue in this repository's issue tracker using the appropiate template. You will be automatically notified of the result when the proposal has been processed.
-
-
-
-The registry is available as a CITE2 data collection in CEX format from the github repository https://github.com/chs-tg/greekLit.
