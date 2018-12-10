@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            The greekLit namespace for Canonical Text Services
+tagline:          'Canonical identifiers for textgroups and works in Greek'
+description:      ''
+baseurl: '/greekLit/'
+
+
+author:
+  name:           'Neel Smith'
+
+
+paginate:         5
+
+
+links:
+  - title: Data archive on github
+    url: https://github.com/chs-tg/greekLit
+    external: true
