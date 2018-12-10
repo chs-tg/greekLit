@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            The greekLit namespace for Canonical Text Services
-tagline:          'Canonical identifiers for textgroups and works in Greek'
+title:            The greekLit subnamespace for CTS URNs
+tagline:          'A CTS URN subnamespace for ancient Greek literature'
 description:      ''
 baseurl: '/greekLit/'
 
