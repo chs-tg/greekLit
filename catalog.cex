@@ -10,7 +10,7 @@ license#Public domain
 
 URN#Description#Labelling property#Ordering property#License
 urn:cite2:chs:textgroup.v1:#Registory of text groups for the CTS greekLit subnamepace#urn:cite2:chs:textgroupchs:textgroup.v1.EnglishName:##Public domain
-urn:cite2:chs:work.v1:#Registory of works for the CTS greekLit subnamepace#urn:cite2:chs:work.v1.EnglishName##Public domain
+urn:cite2:chs:work.v1:#Registory of works for the CTS greekLit subnamepace#urn:cite2:chs:work.v1.EnglishName###Public domain
 
 
 #!citeproperties
