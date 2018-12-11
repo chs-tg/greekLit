@@ -21,7 +21,7 @@ urn:cite2:chs:textgroup.v1.CTS_URN:#Equivalent CTS URN#CtsUrn#
 urn:cite2:chs:textgroup.v1.LatinName:#Latin name of group#String#
 urn:cite2:chs:textgroup.v1.EnglishName:#English name of group#String#
 
-urn:cite2:chs:work.v1.NameRecord#CITE2 URN for work#Cite2Urn#
+urn:cite2:chs:work.v1.NameRecord:#CITE2 URN for work#Cite2Urn#
 urn:cite2:chs:work.v1.CTS_URN:#Equivalent CTS URN#CtsUrn#
 urn:cite2:chs:work.v1.LatinName:#Latin name of work#String#
 urn:cite2:chs:work.v1.EnglishName:#English name of work#String#
