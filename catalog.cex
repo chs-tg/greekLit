@@ -1,3 +1,11 @@
+#!citelibrary
+name#The greekLit CTS URN subnamespace of Center for Hellenic Studies
+urn#urn:cite2:chs:library.v1:cts_sns
+license#Public domain
+
+#!cexversion
+3.0
+
 #!citecollections
 
 URN#Description#Labelling property#Ordering property#License
