@@ -9,21 +9,21 @@ license#Public domain
 #!citecollections
 
 URN#Description#Labelling property#Ordering property#License
-urn:cite2:chs:textgroup.v1:#Registory of text groups for the CTS greekLit subnamepace#urn:cite2:chs:textgroup.v1:EnglishName##Public domain
-urn:cite2:chs:work.v1:#Registory of works for the CTS greekLit subnamepace#urn:cite2:chs:work.v1:EnglishName##Public domain
+urn:cite2:chs:textgroup.v1:#Registory of text groups for the CTS greekLit subnamepace#urn:cite2:chs:textgroupchs:textgroup.v1.EnglishName:##Public domain
+urn:cite2:chs:work.v1:#Registory of works for the CTS greekLit subnamepace#urn:cite2:chs:work.v1.EnglishName##Public domain
 
 
 #!citeproperties
 
 Property#Label#Type#Authority list
-urn:cite2:chs:textgroup.v1:URN#CITE2 URN for text group#Cite2Urn#
-urn:cite2:chs:textgroup.v1:CTS_URN#Equivalent CTS URN#CtsUrn#
-urn:cite2:chs:textgroup.v1:LatinName#Latin name of group#String#
-urn:cite2:chs:textgroup.v1:EnglishName#English name of group#String#
+urn:cite2:chs:textgroup.v1.URN:#CITE2 URN for text group#Cite2Urn#
+urn:cite2:chs:textgroup.v1.CTS_URN:#Equivalent CTS URN#CtsUrn#
+urn:cite2:chs:textgroup.v1.LatinName#Latin name of group#String#
+urn:cite2:chs:textgroupchs:textgroup.v1.EnglishName#English name of group#String#
 
-urn:cite2:chs:work.v1:NameRecord#CITE2 URN for work#Cite2Urn#
-urn:cite2:chs:work.v1:CTS_URN#Equivalent CTS URN#CtsUrn#
-urn:cite2:chs:work.v1:LatinName#Latin name of work#String#
-urn:cite2:chs:work.v1:EnglishName#English name of work#String#
-urn:cite2:chs:work.v1:ParentGroup#URN for text group work belongs to#Cite2Urn#
-urn:cite2:chs:work.v1:GreekName#Greek name of work#String#
+urn:cite2:chs:workchs:textgroup.v1.NameRecord#CITE2 URN for work#Cite2Urn#
+urn:cite2:chs:workchs:textgroup.v1.CTS_URN#Equivalent CTS URN#CtsUrn#
+urn:cite2:chs:workchs:textgroup.v1.LatinName#Latin name of work#String#
+urn:cite2:chs:workchs:textgroup.v1.EnglishName#English name of work#String#
+urn:cite2:chs:workchs:textgroup.v1.ParentGroup#URN for text group work belongs to#Cite2Urn#
+urn:cite2:chs:workchs:textgroup.v1.GreekName#Greek name of work#String#
